@@ -1,5 +1,5 @@
 # LAPS
-###A custom made WPF form to handle LAPS administering 
+### A custom made WPF form to handle LAPS administering 
 
 The main features of this include:
 
