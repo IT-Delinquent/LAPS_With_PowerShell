@@ -1,5 +1,3 @@
-#TESTING UPDATE
-
 #Enter your domain and domain controller below :)
 $script:domainController = "DC.DOMAIN.LAN"
 $script:domainRoot = "DOMAIN.LAN"
