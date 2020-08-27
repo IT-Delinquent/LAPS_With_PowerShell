@@ -336,7 +336,7 @@ if ( Test-Connection $domainRoot -Count 1 -Quiet){
     }
 }else{
     #DOMAIN ISN'T ACCESSIBLE
-    set-output-textbox -date $false -value "Sanderson.lan is not accessible"
+    set-output-textbox -date $false -value "Domain is not accessible"
     set-controls -switcher $false -setswitcher $false
     $Computer_Textbox.IsEnabled = $false
 }   
